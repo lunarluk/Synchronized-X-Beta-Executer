@@ -1,4 +1,4 @@
-# Synchronized X Beta
+# Synchronized X v2.1 Beta
 
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/1094511890828365827/1163007378380292106/image-removebg-preview.png?ex=653e0206&is=652b8d06&hm=6baa2dcbd992ac43495b0fca856616038431c4143688cbe183a9da6ab2b8feaa&"/>
